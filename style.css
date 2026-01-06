@@ -1,4 +1,68 @@
+@font-face {
+  font-family: 'Dudler';
+  src: url('./fonts/Dudler-trial-Regular.otf');
+}
+
 body {
   font-family: system-ui, sans-serif;
-  margin: 40px;
+  background-color: #90A3A9;
+  margin: 0;
+  border: 0;
 }
+
+.header {
+  background-color: #2A3B46;
+  margin: 0;
+  padding: 1rem;
+  text-align: center;
+}
+
+h1{
+  color: white;
+  font-family: 'Dudler';
+}
+
+.Frankie{
+  font-size: 20vw;
+  font-weight: normal;
+  margin: 2rem;
+}
+
+.links{
+  color:white;
+  font-family: 'Dudler';
+  font-size: 2rem;
+  text-align: right;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+.right-column{
+  display: flex;
+  flex-direction: column;
+}
+
+.anti-oedipus-thumb{
+  height: 200px;
+  margin: 2rem;
+  margin-bottom: 0rem;
+}
+
+h2{
+  font-family: 'avenir next';
+  color: white;
+  font-weight: normal;
+  font-size: 0.8rem;
+  margin: 2rem;
+  margin-top: 0rem;
+}
+
+.cat-thumb{
+  width: 40%;
+  margin: 2rem;
+}
+
+

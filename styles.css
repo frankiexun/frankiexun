@@ -458,6 +458,7 @@ header{
   z-index: 10;
   padding: 75px 30px 0px 0px;
   color: var(--bg2);
+  /* border: 2px solid red; */
 }
 
 /* Content of each section */
@@ -621,8 +622,8 @@ header{
 
   .toc{
     font-size: 15px;
-    padding:125px 15px 0px 0px;
-    top:-100px;
+    padding:70px 15px 0px 0px;
+    top:-45px;
     min-width: 110px;
   }
 

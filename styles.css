@@ -160,7 +160,7 @@ iframe {
   gap: 10px;
 }
 
-.img-row div{
+.img-row > div{
   flex: 1;
 }
 
@@ -176,7 +176,7 @@ iframe {
   /* padding: 10px 0; */
 }
 
-.img-column div{
+.img-column > div{
   flex: 1;
   /* border:2px solid red; */
 }
@@ -194,7 +194,7 @@ iframe {
   /* padding: 10px 0; */
 }
 
-.img-row-unequal div{
+.img-row-unequal > div{
   /* border:2px solid red; */
 }
 
@@ -211,7 +211,7 @@ iframe {
   /* padding: 10px 0; */
 }
 
-.img-column-unequal div{
+.img-column-unequal > div{
   /* border:2px solid red; */
 }
 

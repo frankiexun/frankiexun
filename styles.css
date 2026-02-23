@@ -464,9 +464,11 @@ header{
   flex-direction: column;
   gap: 8px;
   z-index: 10;
-  padding: 75px 30px 0px 0px;
+  padding-right: 30px;
+  padding-top: calc(clamp(30px, 10vw, 80px) + 40px);
+  padding-bottom: 0px;
+  padding-left: 0px;
   color: var(--bg2);
-  /* border: 2px solid red; */
 }
 
 /* Content of each section */

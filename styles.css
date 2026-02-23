@@ -329,7 +329,7 @@ iframe {
   position: sticky;
   top: clamp(10px, 5vw, 50px);
   left:0px;
-  z-index: 10;
+  z-index: 100;
   /* border: 2px solid red; */
 }
 

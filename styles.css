@@ -443,6 +443,7 @@ header{
   align-items: flex-start;
   justify-content: center;
   padding: 70px;
+  padding-bottom: 0px;
 }
 
 /* Sticky TOC */

@@ -274,8 +274,8 @@ iframe {
 .text-hover:hover{
   /* filter:blur(3px); */
   color:var(--c4);
-  --hover-size: 40px;
-  font-size:calc(var(--hover-size));
+  --hover-size: 10px;
+  font-size:calc(1em + var(--hover-size));
   --travel-dist: -3px;
   transform:translateY(var(--travel-dist));
 }

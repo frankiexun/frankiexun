@@ -411,6 +411,7 @@ header{
   padding-bottom: 0px;
   gap: 30px;
   background: var(--c2);
+  /* border: 2px solid red; */
 }
 
 .featured-item {
